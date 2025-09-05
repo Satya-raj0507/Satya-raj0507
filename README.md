@@ -76,11 +76,11 @@
     <td width="50%" valign="top">
       <h3 align="center">📊 GitHub Stats & Contributions</h3>
       <p align="center">
-        <img src="https://github-readme-stats.vercel.app/api?username=Satya-raj0507&show_icons=true&theme=dracula&count_private=true" alt="Satya's GitHub stats" />
+        <img src="https://github-readme-stats.vercel.app/api?username=Satya-raj0507&show_icons=true&theme=dark&hide_border=true&count_private=true" alt="Satya's GitHub stats" />
         <br/>
-        <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Satya-raj0507&layout=compact&theme=dracula" alt="Top Languages" />
+        <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Satya-raj0507&layout=compact&theme=dark&hide_border=true" alt="Top Languages" />
         <br/>
-        <img src="https://github-readme-streak-stats.herokuapp.com/?user=Satya-raj0507&theme=radical&hide_border=true" alt="GitHub Streak" />
+        <img src="https://github-readme-streak-stats.herokuapp.com/?user=Satya-raj0507&theme=dark&hide_border=true" alt="GitHub Streak" />
         <br/>
         <img src="https://ghchart.rshah.org/Satya-raj0507" alt="Satya's Contribution Graph" />
       </p>
