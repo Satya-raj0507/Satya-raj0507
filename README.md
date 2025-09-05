@@ -1,12 +1,13 @@
 <div align="center">
-  <img src="https://raw.githubusercontent.com/Satya-raj0507/Satya-raj0507/main/dark-theme-1.png" alt="Profile Banner" />
+  <img src="<img width="2816" height="1536" alt="Gemini_Generated_Image_prsm03prsm03prsm" src="https://github.com/user-attachments/assets/80489cb3-4a3e-40de-b0da-7797578c8feb" />
+" alt="Profile Banner" />
 </div>
 
 <h1 align="center">Hi there, I'm Satya Raj Prakash 👋</h1>
-<h3 align="center">B.Tech CSE Graduate | Data Science & AI Enthusiast | India 🇮🇳</h3>
+<h3 align="center">B.Tech CSE Graduate | Data Science & Generative AI Enthusiast | India 🇮🇳</h3>
 
 <p align="center">
-  A highly motivated B.Tech Computer Science & Engineering graduate (CGPA 9.25) with hands-on experience in Python, C/C++, SQL, Machine Learning, and Web Development. Completed a Data Science internship at Celebal Technologies, where I worked on data preprocessing, ML models, visualization, and developed AI-powered projects. Red Hat Certified with multiple certifications in AI, ML, OS, Cloud, IoT, and Data Science. Published research in deep learning and recognized for academic excellence.
+  A highly motivated B.Tech Computer Science & Engineering graduate (CGPA 9.25) with hands-on experience in Python, C/C++, SQL, Machine Learning, and Web Development. Completed a Data Science internship at Celebal Technologies, where I worked on data preprocessing, ML models, visualization, and developed AI-powered projects. Special focus on **Generative AI**, building intelligent systems that transform ideas into code or solutions. Red Hat Certified with multiple certifications in AI, ML, OS, Cloud, IoT, and Data Science. Published research in deep learning and recognized for academic excellence.
 </p>
 <br>
 
@@ -19,11 +20,11 @@
     <strong>Web-Based AI-Integrated Code Editor 💻</strong>
   </summary>
 
-  Developed a browser-based code editor that translates pseudocode into executable code in Python, JavaScript, or C++ using Hugging Face’s language models.
+  Developed a browser-based code editor that translates pseudocode into executable code in Python, JavaScript, or C++ using **Generative AI** models via Hugging Face and Groq API.
 
-  - **Features:** Real-time syntax highlighting and error detection using CodeMirror; live preview pane executing and displaying output.
+  - **Features:** Real-time syntax highlighting, error detection using CodeMirror, and live preview pane executing and displaying output.
   - **Technologies:** HTML, CSS, JavaScript, Node.js, Groq API
-  - **Impact:** Enhanced user experience and accuracy for code generation in multiple languages.
+  - **Impact:** Leveraged **Generative AI** to enhance developer productivity by converting ideas/pseudocode into working code.
 </details>
 
 <details>
@@ -59,6 +60,7 @@
         <img src="https://img.shields.io/badge/Flask-000000?style=for-the-badge&logo=flask&logoColor=white" alt="Flask" />
         <img src="https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=node.js&logoColor=white" alt="Node.js" />
         <img src="https://img.shields.io/badge/Hugging%20Face-FF6F61?style=for-the-badge&logo=huggingface&logoColor=white" alt="Hugging Face" />
+        <img src="https://img.shields.io/badge/Generative%20AI-8A2BE2?style=for-the-badge&logo=openai&logoColor=white" alt="Generative AI" />
         <img src="https://img.shields.io/badge/Tableau-E97627?style=for-the-badge&logo=tableau&logoColor=white" alt="Tableau" />
         <img src="https://img.shields.io/badge/Power%20BI-F2C811?style=for-the-badge&logo=powerbi&logoColor=white" alt="Power BI" />
       </div>
@@ -66,17 +68,22 @@
       <ul>
         <li><b>Programming:</b> Python, C/C++, SQL, JavaScript, HTML5, CSS3</li>
         <li><b>Libraries & Frameworks:</b> Pandas, NumPy, Matplotlib, Scikit-Learn, OpenCV, Flask, Streamlit, Hugging Face</li>
-        <li><b>Tools:</b> Jupyter Notebook, Git & GitHub, VS Code, Google Colab, Tableau, Power BI</li>
+        <li><b>Generative AI & Tools:</b> Hugging Face, Groq API, AI-powered code generation, LLM integration</li>
+        <li><b>Other Tools:</b> Jupyter Notebook, Git & GitHub, VS Code, Google Colab, Tableau, Power BI</li>
         <li><b>Operating Systems:</b> Debian, Ubuntu, CentOS, Windows</li>
         <li><b>Soft Skills:</b> Communication, Problem Solving, Team Collaboration</li>
       </ul>
     </td>
     <td width="50%" valign="top">
-      <h3 align="center">📊 GitHub Stats</h3>
+      <h3 align="center">📊 GitHub Stats & Contributions</h3>
       <p align="center">
         <img src="https://github-readme-stats.vercel.app/api?username=Satya-raj0507&show_icons=true&theme=dracula&count_private=true" alt="Satya's GitHub stats" />
         <br/>
         <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Satya-raj0507&layout=compact&theme=dracula" alt="Top Languages" />
+        <br/>
+        <img src="https://github-readme-streak-stats.herokuapp.com/?user=Satya-raj0507&theme=radical&hide_border=true" alt="GitHub Streak" />
+        <br/>
+        <b>127 contributions in 2024</b> | <b>248 contributions in 2025</b>
       </p>
     </td>
   </tr>
@@ -93,11 +100,11 @@
   - Red Hat Certified System Administrator (RHCSA) – Score: 300/300  
   - Oracle Cloud Infrastructure – Certified Generative AI Professional  
   - Oracle Cloud Infrastructure – Certified AI Foundations Associate  
-  - NPTEL – Operating System 
-  - NPTEL - Cloud Computing
-  - NPTEL - Internet of Things
-  - Grass – Data Science   
-  - Grass - Advanced Machine Learning Using Python
+  - NPTEL – Operating System  
+  - NPTEL – Cloud Computing  
+  - NPTEL – Internet of Things  
+  - Grass – Data Science  
+  - Grass – Advanced Machine Learning Using Python
 
 ---
 
@@ -126,4 +133,3 @@
 ---
 
 *“Code is like humor. When you have to explain it, it’s bad.” – Cory House*
-
