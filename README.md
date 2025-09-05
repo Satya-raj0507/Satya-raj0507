@@ -1,6 +1,5 @@
 <div align="center">
-  <img src="<img width="2816" height="1536" alt="Gemini_Generated_Image_prsm03prsm03prsm" src="https://github.com/user-attachments/assets/80489cb3-4a3e-40de-b0da-7797578c8feb" />
-" alt="Profile Banner" />
+  <img src="https://raw.githubusercontent.com/Satya-raj0507/Satya-raj0507/main/Gemini_Generated_Image_prsm03prsm03prsm.png" alt="Profile Banner" />
 </div>
 
 <h1 align="center">Hi there, I'm Satya Raj Prakash 👋</h1>
