@@ -82,7 +82,7 @@
         <br/>
         <img src="https://github-readme-streak-stats.herokuapp.com/?user=Satya-raj0507&theme=radical&hide_border=true" alt="GitHub Streak" />
         <br/>
-        <b>127 contributions in 2024</b> | <b>248 contributions in 2025</b>
+        <img src="https://ghchart.rshah.org/Satya-raj0507" alt="Satya's Contribution Graph" />
       </p>
     </td>
   </tr>
@@ -92,11 +92,9 @@
 
 ### 🎓 **Education & Certifications**
 
-- **Bachelor of Technology in Computer Science & Engineering** — *Rajasthan Technical University*  
-  CGPA: 9.25  
+- **Bachelor of Technology in Computer Science & Engineering** — *Rajasthan Technical University* CGPA: 9.25  
 
-- **Certifications:**  
-  - Red Hat Certified System Administrator (RHCSA) – Score: 300/300  
+- **Certifications:** - Red Hat Certified System Administrator (RHCSA) – Score: 300/300  
   - Oracle Cloud Infrastructure – Certified Generative AI Professional  
   - Oracle Cloud Infrastructure – Certified AI Foundations Associate  
   - NPTEL – Operating System  
